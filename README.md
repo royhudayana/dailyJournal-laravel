@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ##Journal
 
 *A simple journal application built on Laravel 5*
@@ -55,6 +56,10 @@ Date|Tempo|Entry
 01.02.16|0|Wow, yesterday was busy!
 01.03.16|0|...another entry
 ```
+=======
+# dailyJournal-laravel
+Simple Daily Post Journal
+>>>>>>> 101783a80a745ce989fab46b13a68053b1769f0b
 =======
 # dailyJournal-laravel
 Simple Daily Post Journal
